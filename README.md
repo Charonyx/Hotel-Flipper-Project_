@@ -4,13 +4,14 @@
 ![Microservice](https://github.com/Charonyx/Hotel-Flipper-Project_/blob/master/Microservice.png?raw=true)
 
 ## Proposal
-- [Proposal]("https://github.com/Charonyx/Hotel-Flipper-Project_/blob/master/Proposal_Group08_Hotel_Flipper.pdf")
+- [Proposal](https://github.com/Charonyx/Hotel-Flipper-Project_/blob/master/Proposal_Group08_Hotel_Flipper.pdf)
 
 ## Document Report 
-- [Document Report]("https://github.com/Charonyx/Hotel-Flipper-Project_/blob/master/Hotel_Flipper_Document.pdf")
+- [Document Report](https://github.com/Charonyx/Hotel-Flipper-Project_/blob/master/Hotel_Flipper_Document.pdf)
 
 ## Presentation 
-- [Presentation]("https://github.com/Charonyx/Hotel-Flipper-Project_/blob/master/Hotel_Flipper_Presentation.pdf")
+- [PDF](https://github.com/Charonyx/Hotel-Flipper-Project_/blob/master/Hotel_Flipper_Presentation.pdf)
+- [CANVA](https://www.canva.com/design/DAFStM_YDyA/IJB7wvat6TjmGAmU6Sl2ow/edit?utm_content=DAFStM_YDyA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 ## Bounded Context
 ![Bounded Context](https://github.com/Charonyx/Hotel-Flipper-Project_/blob/master/Bounded_Context.png?raw=true)
 1.	Register processing
@@ -20,18 +21,18 @@
 5.	Rating processing
 
 ## UML
-![Bounded Context](https://github.com/Charonyx/Hotel-Flipper-Project_/blob/master/UMLsvg?raw=true)
+![Bounded Context](https://github.com/Charonyx/Hotel-Flipper-Project_/blob/master/UMLpng?raw=true)
 
 ## Source Code
 - Front-end `React.js`
-    - `master` : [Hotel-Flipper-project/](https://github.com/R3M1ND/Hotel-Flipper-project/tree/front-merge)
+    - [x] `master` : [Hotel-Flipper-project/](https://github.com/R3M1ND/Hotel-Flipper-project/tree/front-merge)
 - Back-end `Nest.js`
     - [x] `hotel-service` : [KKudave/Project_backend](https://github.com/KKudave/Project_backend)
     - [x] `hotel-cart` : [Charonyx/Hotel-Flipper-Project](https://github.com/Charonyx/Hotel-Flipper-Project)
     - [x] `hotel-review` : [FabuKi-Xr/HotelKeeper_API](https://github.com/FabuKi-Xr/HotelKeeper_API)
     - [x] `hotel-order` : [FabuKi-Xr/HotelKeeper_API](https://github.com/FabuKi-Xr/HotelKeeper_API)
     - [x] `hotel-payment` : [FabuKi-Xr/HotelKeeper_API](https://github.com/FabuKi-Xr/HotelKeeper_API)
-    - [x] `hotel-register`[miimicc/Project-Hotel-Flipper](https://github.com/miimicc/Project-Hotel-Flipper)
+    - [x] `hotel-register` : [miimicc/Project-Hotel-Flipper](https://github.com/miimicc/Project-Hotel-Flipper)
 - Database `MongoDB `
 
 ## Docker
