@@ -1,3 +1,52 @@
+# Hotel Flipper Project : Hotel & Lodging
+
+## `Microservice` Architecture
+![Microservice](https://github.com/Charonyx/Hotel-Flipper-Project_/blob/master/Microservice.png?raw=true)
+
+## Proposal
+- [Proposal]("https://github.com/Charonyx/Hotel-Flipper-Project_/blob/master/Proposal_Group08_Hotel_Flipper.pdf")
+
+## Document Report 
+- [Document Report]("https://github.com/Charonyx/Hotel-Flipper-Project_/blob/master/Hotel_Flipper_Document.pdf")
+
+## Presentation 
+- [Presentation]("https://github.com/Charonyx/Hotel-Flipper-Project_/blob/master/Hotel_Flipper_Presentation.pdf")
+## Bounded Context
+![Bounded Context](https://github.com/Charonyx/Hotel-Flipper-Project_/blob/master/Bounded_Context.png?raw=true)
+1.	Register processing
+2.	Service list processing
+3.	Team service processing
+4.	Payment processing
+5.	Rating processing
+
+## UML
+![Bounded Context](https://github.com/Charonyx/Hotel-Flipper-Project_/blob/master/UMLsvg?raw=true)
+
+## Source Code
+- Front-end `React.js`
+    - `master` : [Hotel-Flipper-project/](https://github.com/R3M1ND/Hotel-Flipper-project/tree/front-merge)
+- Back-end `Nest.js`
+    - [x] `hotel-service` : [KKudave/Project_backend](https://github.com/KKudave/Project_backend)
+    - [x] `hotel-cart` : [Charonyx/Hotel-Flipper-Project](https://github.com/Charonyx/Hotel-Flipper-Project)
+    - [x] `hotel-review` : [FabuKi-Xr/HotelKeeper_API](https://github.com/FabuKi-Xr/HotelKeeper_API)
+    - [x] `hotel-order` : [FabuKi-Xr/HotelKeeper_API](https://github.com/FabuKi-Xr/HotelKeeper_API)
+    - [x] `hotel-payment` : [FabuKi-Xr/HotelKeeper_API](https://github.com/FabuKi-Xr/HotelKeeper_API)
+    - [x] `hotel-register`[miimicc/Project-Hotel-Flipper](https://github.com/miimicc/Project-Hotel-Flipper)
+- Database `MongoDB `
+
+## Docker
+```
+docker pull <<username>>/<<repo>>
+```
+- `Port:3001` kudave/hotel-nestjs-service
+- `Port:3002` charonyx/hotel-nestjs-cart-v3
+- `Port:3003` fabuki/hotelflipper-por
+- `Port:3004` miimiccmix/hotel-nestjs-register
+
+
+- - -
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
