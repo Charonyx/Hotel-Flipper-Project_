@@ -11,7 +11,7 @@
 
 ## Presentation 
 - [PDF](https://github.com/Charonyx/Hotel-Flipper-Project_/blob/master/Hotel_Flipper_Presentation.pdf)
-- [CANVA](https://www.canva.com/design/DAFStM_YDyA/IJB7wvat6TjmGAmU6Sl2ow/edit?utm_content=DAFStM_YDyA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [CANVA](https://www.canva.com/design/DAFStM_YDyA/IJB7wvat6TjmGAmU6Sl2ow/view?utm_content=DAFStM_YDyA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 ## Bounded Context
 ![Bounded Context](https://github.com/Charonyx/Hotel-Flipper-Project_/blob/master/Bounded_Context.png?raw=true)
 1.	Register processing
@@ -21,7 +21,7 @@
 5.	Rating processing
 
 ## UML
-![Bounded Context](https://github.com/Charonyx/Hotel-Flipper-Project_/blob/master/UMLpng?raw=true)
+![UML](https://github.com/Charonyx/Hotel-Flipper-Project_/blob/master/UML.png?raw=true)
 
 ## Source Code
 - Front-end `React.js`
